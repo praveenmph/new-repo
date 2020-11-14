@@ -1,0 +1,1 @@
+print ("Welcome. Now RStudio and GitHub has been linked.")
